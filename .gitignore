@@ -2,5 +2,5 @@
 *.elf
 /bootloader/kz_h8write
 /bootloader/aq_loader
-/bootloader/aq_os
+/os/aq_os
 
