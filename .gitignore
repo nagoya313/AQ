@@ -1,6 +1,7 @@
 *.o
+*.scr
 *.elf
-/bootloader/kz_h8write
-/bootloader/aq_loader
-/os/aq_os
-
+*.bin
+*.out
+.*
+*.a
